@@ -1,7 +1,7 @@
 # Tugas-Pratikum-5
 # Program Menghitung Nilai Mahasiswa dengan Dictionary
 Bismillahirrahmanirrahim
-kali ini saya akan membuat program menentukan nilai mahasiswa dengan menggunakan list
+kali ini saya akan membuat program menentukan nilai mahasiswa dengan menggunakan list.
 Berikut:
 - Source Code dan Penjelasan
 
