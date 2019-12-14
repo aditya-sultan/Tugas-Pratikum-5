@@ -48,3 +48,11 @@
          print("| {no:2d} |{nim:12s}|   {nama:9s}    |  {nilaiTugas:5d}  | {nilaiUts:5d} | {nilaiUas:5d} |  {nilaiAkhir:6.2f} |"
                  .format(no=i, nim=item[0], nama=item[1], nilaiTugas=item[2], nilaiUts=item[3], nilaiUas=item[4], nilaiAkhir=item[5]))
          print("========================================================================")
+
+
+
+- # Screenshoot
+![input](https://github.com/aditya-sultan/Tugas-Pratikum-5/blob/master/Capture.PNG)
+![](https://github.com/aditya-sultan/Tugas-Pratikum-5/blob/master/Capture1.PNG)
+![output](https://github.com/aditya-sultan/Tugas-Pratikum-5/blob/master/Capture2.PNG)
+- flowchart ![](https://github.com/aditya-sultan/Tugas-Pratikum-5/blob/master/tugas5.jpg)
