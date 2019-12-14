@@ -55,4 +55,5 @@
 ![input](https://github.com/aditya-sultan/Tugas-Pratikum-5/blob/master/Capture.PNG)
 ![](https://github.com/aditya-sultan/Tugas-Pratikum-5/blob/master/Capture1.PNG)
 ![output](https://github.com/aditya-sultan/Tugas-Pratikum-5/blob/master/Capture2.PNG)
-- flowchart ![](https://github.com/aditya-sultan/Tugas-Pratikum-5/blob/master/tugas5.jpg)
+- flowchart 
+![](https://github.com/aditya-sultan/Tugas-Pratikum-5/blob/master/tugas5.jpg)
